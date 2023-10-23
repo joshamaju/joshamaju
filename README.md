@@ -4,12 +4,10 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
 
 - 🔭 I’m currently working on [Lean Web Kit](https://github.com/theleanweb/kit/tree/main/packages/core)
 - 🌱 I’m currently learning [Effect-TS](https://www.effect.website/)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on: currently looking for new opportunities
 - 💬 Ask me about: React, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 ### 💻 My top tech skills
 - Javascript
