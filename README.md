@@ -16,6 +16,7 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
   - TypeScript
   - Next.js
   - Remix
+  - React Native
 - CSS
   - Mobile first design
   - Web performance optimisation
@@ -23,9 +24,6 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
   - Templating (pug, handlebars, mustache)
   - Sematic HTML
   - SVG
-- Backend
-  - Express
-  - Neo4j
 
 ### 🛠️ Stuff I've built
 - [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
