@@ -15,15 +15,17 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
   - ES6+
   - TypeScript
   - Next.js
-  - Remix
   - React Native
+  - Svelte
+  - Vite
+  - Xstate
 - CSS
   - Mobile first design
-  - Web performance optimisation
 - HTML
   - Templating (pug, handlebars, mustache)
   - Sematic HTML
   - SVG
+- Web performance optimisation
 
 ### 🛠️ Stuff I've built
 - [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
