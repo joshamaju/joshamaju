@@ -2,7 +2,7 @@
 
 I'm a front-end developer, currently at Polaris Digitech Limited.
 
-- 🔭 I’m currently working on [Lean Web Kit](https://github.com/theleanweb/kit/tree/main/packages/core)
+- 🔭 I’m currently working on [Lean Web Kit](https://github.com/theleanweb/fullstack/tree/main/packages/core)
 - 🌱 I’m currently learning [Effect-TS](https://www.effect.website/)
 - 👯 I’m looking to collaborate on: currently looking for new opportunities
 - 💬 Ask me about: React, functional programming and anything else
