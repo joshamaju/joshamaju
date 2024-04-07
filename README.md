@@ -28,8 +28,8 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
 - Web performance optimisation
 
 ### 🛠️ Stuff I've built
-- [stack54](https://github.com/joshamaju/stack54)
-- [fetch+interceptors](https://github.com/joshamaju/effect-fetch)
+- [stack54](https://github.com/joshamaju/stack54) (a modern fullstack framework)
+- [effect-fetch](https://github.com/joshamaju/effect-fetch) (fetch + interceptors)
 - [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
 - Risk assessment tool for Axa Mansard
 - Parallex Bank mobile application
