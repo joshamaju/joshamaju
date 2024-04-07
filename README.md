@@ -2,10 +2,10 @@
 
 I'm a front-end developer, currently at Polaris Digitech Limited.
 
-- 🔭 I’m currently working on [Lean Web Kit](https://github.com/theleanweb/fullstack/tree/main/packages/core)
+- 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
 - 🌱 I’m currently learning [Effect-TS](https://www.effect.website/)
 - 👯 I’m looking to collaborate on: currently looking for new opportunities
-- 💬 Ask me about: React, functional programming and anything else
+- 💬 Ask me about: CSS, React, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
 - 😄 Pronouns: he/him
 
@@ -28,6 +28,8 @@ I'm a front-end developer, currently at Polaris Digitech Limited.
 - Web performance optimisation
 
 ### 🛠️ Stuff I've built
+- [stack54](https://github.com/joshamaju/stack54)
+- [fetch+interceptors](https://github.com/joshamaju/effect-fetch)
 - [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
 - Risk assessment tool for Axa Mansard
 - Parallex Bank mobile application
