@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joshua Amaju
 
-I'm a front-end developer, currently at Polaris Digitech Limited.
+I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 
 - 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
 - 🌱 I’m currently learning [Effect-TS](https://www.effect.website/)
