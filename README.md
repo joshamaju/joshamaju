@@ -3,9 +3,9 @@
 I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 
 - 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
-- 🌱 I’m currently learning [Effect-TS](https://www.effect.website/)
+- 🌱 I’m currently into [Effect-TS](https://www.effect.website/)
 - 👯 I’m looking to collaborate on: currently looking for new opportunities
-- 💬 Ask me about: CSS, React, functional programming and anything else
+- 💬 Ask me about: CSS, React, React Native, Effect, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
 - 😄 Pronouns: he/him
 
@@ -22,7 +22,7 @@ I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 - CSS
   - Mobile first design
 - HTML
-  - Templating (pug, handlebars, mustache)
+  - Templating (pugm ejs, handlebars, mustache)
   - Sematic HTML
   - SVG
 - Web performance optimisation
