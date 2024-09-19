@@ -2,34 +2,28 @@
 
 I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 
+> Looking for a seasoned engineer to join your team or collaborate on an exciting project? [Let’s connect!](mailto:joshsemail4work@gmail.com)
+
 - 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
 - 🌱 I’m currently into [Effect-TS](https://www.effect.website/)
-- 👯 I’m looking to collaborate on: currently looking for new opportunities
 - 💬 Ask me about: CSS, React, React Native, Effect, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
-- 😄 Pronouns: he/him
 
 ### 💻 My top tech skills
-- Javascript
-  - React
-  - ES6+
-  - TypeScript
-  - Next.js
-  - React Native
-  - Svelte
-  - Vite
-  - Xstate
+- React
+- NodeJS
+- TypeScript
+- Next.js
+- React Native
+- Svelte
+- Xstate
 - CSS
-  - Mobile first design
 - HTML
-  - Templating (pugm ejs, handlebars, mustache)
-  - Sematic HTML
-  - SVG
 - Web performance optimisation
 
 ### 🛠️ Stuff I've built
 - [stack54](https://github.com/joshamaju/stack54) (a modern fullstack framework)
-- [effect-fetch](https://github.com/joshamaju/effect-fetch) (fetch + interceptors)
+- [fetch-prime](https://github.com/joshamaju/fetch-prime) (fetch + interceptors)
 - [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
 - Risk assessment tool for Axa Mansard
 - Parallex Bank mobile application
