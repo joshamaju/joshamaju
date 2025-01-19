@@ -5,7 +5,7 @@ I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 > Looking for a seasoned engineer to join your team or collaborate on an exciting project? [Let’s connect!](mailto:joshsemail4work@gmail.com)
 
 - 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
-- 🌱 I’m currently into [Effect-TS](https://www.effect.website/)
+- 🌱 I’m learning [Effection](https://frontside.com/effection/docs/spawn)
 - 💬 Ask me about: CSS, React, React Native, Effect, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
 
