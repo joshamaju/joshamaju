@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Joshua Amaju
 
-I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
+I'm a fullstack developer, currently at Ha-Shem Limited.
 
 > Looking for a seasoned engineer to join your team or collaborate on an exciting project? [Let’s connect!](mailto:joshsemail4work@gmail.com)
 
 - 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
-- 🌱 I’m learning [Effection](https://frontside.com/effection/docs/spawn)
-- 💬 Ask me about: CSS, React, React Native, Effect, functional programming and anything else
+- 🌱 Using [Effection](https://frontside.com/effection/docs)
+- 💬 Ask me about: CSS, React, React Native, Next.js, NestJS, Effection, functional programming and anything else
 - 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
 
 ### 💻 My top tech skills
@@ -14,6 +14,8 @@ I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 - NodeJS
 - TypeScript
 - Next.js
+- NestJS
+- Neo4j
 - React Native
 - Svelte
 - Xstate
@@ -31,3 +33,4 @@ I'm a front-end and mobile developer, currently at Polaris Digitech Limited.
 - Address Management Platform
 - Vessel tracking application for Lagos State Ferry Service
 - Estate land use and management application
+- [MessagePipe](https://mzl-email-template-dashboard.dev.zero.mangozestlabs.com/login) (Email engine)
