@@ -1,36 +1,56 @@
-## Hi there 👋 I'm Joshua Amaju
+## Joshua Amaju
 
-I'm a fullstack developer, currently at Ha-Shem Limited.
+Systems-minded Product Engineer focused on building web infrastructure, developer tooling, and real-time systems.
 
-> Looking for a seasoned engineer to join your team or collaborate on an exciting project? [Let’s connect!](mailto:joshsemail4work@gmail.com)
+I design systems, not just interfaces.
 
-- 🔭 I’m currently working on [stack54](https://github.com/joshamaju/stack54), a modern fullstack framework
-- 🌱 Using [Effection](https://frontside.com/effection/docs)
-- 💬 Ask me about: CSS, React, React Native, Next.js, NestJS, Effection, functional programming and anything else
-- 📫 How to reach me: <a href="mailto:joshsemail4work@gmail.com">send me a mail</a>
+### Currently Building
 
-### 💻 My top tech skills
-- React
-- NodeJS
-- TypeScript
-- Next.js
-- NestJS
-- Neo4j
-- React Native
-- Svelte
-- Xstate
-- CSS
-- HTML
-- Web performance optimisation
+- [stack54](https://github.com/joshamaju/stack54) — HTML-first web framework with fine-grained control over client-side behavior
+- [NG Sentinel](http://sentinel.com.ng/) — real-time event intelligence platform for Nigeria
+- [valaria](https://github.com/joshamaju/valaria) — headless DOM primitives for complex UI interactions
 
-### 🛠️ Stuff I've built
-- [stack54](https://github.com/joshamaju/stack54) (a modern fullstack framework)
-- [fetch-prime](https://github.com/joshamaju/fetch-prime) (fetch + interceptors)
-- [Coverage Locator for MTN Nigeria](https://coverage.mtn.ng/)
-- Risk assessment tool for Axa Mansard
-- Parallex Bank mobile application
-- Polaris Data Collector
-- Address Management Platform
-- Vessel tracking application for Lagos State Ferry Service
-- Estate land use and management application
-- [MessagePipe](https://mzl-email-template-dashboard.dev.zero.mangozestlabs.com/login) (Email engine)
+### stack54
+An HTML-first web framework focused on predictable output and developer control.
+
+- SSR + streaming support
+- Pluggable server integrations (Express, Hono)
+- Component-based templating using Svelte
+- Designed to minimize unnecessary client-side JavaScript
+
+→ Built to challenge modern “framework-heavy” web development.
+
+### NG Sentinel
+A real-time event intelligence platform that aggregates and visualizes Nigeria-focused incidents.
+
+- Data ingestion → processing → geolocation → visualization pipeline
+- Interactive map-based UI
+- Focus on real-world, high-signal information
+
+→ Exploring how software can make real-world events more accessible.
+
+### valaria
+Headless DOM primitives for building complex UI interactions.
+
+- Virtual scrolling without heavy frameworks
+- Custom elements for composable UI behavior
+- Performance-focused rendering strategies
+
+→ Treating the DOM as a system, not just a rendering target.
+
+### jamx
+A collection of developer utilities.
+
+- Structured logger with pluggable transports
+- Typed HTTP client with interceptors and end-to-end error handling
+
+→ Focused on developer experience and reliability.
+
+### Interests
+
+- System design and architecture
+- Developer tooling and DX
+- Web performance and rendering models
+- Real-time and data-driven systems
+
+> [contact](mailto:joshsemail4work@gmail.com)
