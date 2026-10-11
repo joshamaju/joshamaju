@@ -1,56 +1,31 @@
-## Joshua Amaju
+# Hi, I'm Joshua Amaju
 
-Systems-minded Product Engineer focused on building web infrastructure, developer tooling, and real-time systems.
+**Software engineer building systems that power products and developers.**
 
-I design systems, not just interfaces.
+I work across TypeScript, JavaScript, React, Node.js and backend infrastructure, with a particular interest in systems design, developer tooling, concurrency and reliable AI-powered software.
 
-### Currently Building
+I enjoy building software at the boundary between application code and infrastructure: the frameworks, abstractions, APIs and execution models that make complex systems easier to understand and maintain.
 
-- [stack54](https://github.com/joshamaju/stack54) — HTML-first web framework with fine-grained control over client-side behavior
-- [NG Sentinel](http://sentinel.com.ng/) — real-time event intelligence platform for Nigeria
-- [valaria](https://github.com/joshamaju/valaria) — headless DOM primitives for complex UI interactions
+## What I'm interested in
 
-### stack54
-An HTML-first web framework focused on predictable output and developer control.
+- **Developer infrastructure:** Frameworks, libraries, APIs and developer experience.
+- **Systems engineering:** Concurrency, asynchronous lifecycles, distributed workflows and observability.
+- **Applied AI:** Agent orchestration, tool integrations, evaluation and reliable execution.
+- **Product engineering:** Building complete products across frontend, backend and infrastructure.
 
-- SSR + streaming support
-- Pluggable server integrations (Express, Hono)
-- Component-based templating using Svelte
-- Designed to minimize unnecessary client-side JavaScript
+## Selected work
 
-→ Built to challenge modern “framework-heavy” web development.
+- **[Stack54](https://github.com/joshamaju/stack54)** — Full-stack framework exploring HTML-first development, server rendering and extensible application architecture.
+- **[Valaria](https://github.com/joshamaju/valaria)** — UI infrastructure and virtualization.
+- **[Jamx](https://github.com/joshamaju/jamx)** — Logging and error-handling tooling.
+- **[Effection](https://github.com/thefrontside/effection)** — Contributions and explorations around structured concurrency in JavaScript.
 
-### NG Sentinel
-A real-time event intelligence platform that aggregates and visualizes Nigeria-focused incidents.
+## Technology
 
-- Data ingestion → processing → geolocation → visualization pipeline
-- Interactive map-based UI
-- Focus on real-world, high-signal information
+TypeScript · JavaScript · Node.js · React · React Native · Svelte · Vite · Hono · Redis · RabbitMQ · Neo4j
 
-→ Exploring how software can make real-world events more accessible.
+## Elsewhere
 
-### valaria
-Headless DOM primitives for building complex UI interactions.
-
-- Virtual scrolling without heavy frameworks
-- Custom elements for composable UI behavior
-- Performance-focused rendering strategies
-
-→ Treating the DOM as a system, not just a rendering target.
-
-### jamx
-A collection of developer utilities.
-
-- Structured logger with pluggable transports
-- Typed HTTP client with interceptors and end-to-end error handling
-
-→ Focused on developer experience and reliability.
-
-### Interests
-
-- System design and architecture
-- Developer tooling and DX
-- Web performance and rendering models
-- Real-time and data-driven systems
-
-> [contact](mailto:joshsemail4work@gmail.com)
+- Portfolio: https://joshuaamaju.com
+- LinkedIn: https://www.linkedin.com/in/joshua-amaju/
+- GitHub: https://github.com/joshamaju
