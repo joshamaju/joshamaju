@@ -1,24 +1,39 @@
 # Hi, I'm Joshua Amaju
 
-**Software engineer building systems that power products and developers.**
+I'm a software engineer interested in the infrastructure and abstractions that make software easier to build, understand, and maintain.
 
-I work across TypeScript, JavaScript, React, Node.js and backend infrastructure, with a particular interest in systems design, developer tooling, concurrency and reliable AI-powered software.
+My open-source work explores a recurring question: **how can we give developers more control while making complex systems easier to reason about?**
 
-I enjoy building software at the boundary between application code and infrastructure: the frameworks, abstractions, APIs and execution models that make complex systems easier to understand and maintain.
-
-## What I'm interested in
-
-- **Developer infrastructure:** Frameworks, libraries, APIs and developer experience.
-- **Systems engineering:** Concurrency, asynchronous lifecycles, distributed workflows and observability.
-- **Applied AI:** Agent orchestration, tool integrations, evaluation and reliable execution.
-- **Product engineering:** Building complete products across frontend, backend and infrastructure.
+I build across the web stack, from server-side rendering and browser primitives to HTTP tooling and asynchronous execution. I prefer small, composable abstractions, explicit behavior, and tools that work with existing systems rather than forcing developers into a particular way of building software.
 
 ## Selected work
 
-- **[Stack54](https://github.com/joshamaju/stack54)** — Full-stack framework exploring HTML-first development, server rendering and extensible application architecture.
-- **[Valaria](https://github.com/joshamaju/valaria)** — UI infrastructure and virtualization.
-- **[Jamx](https://github.com/joshamaju/jamx)** — Logging and error-handling tooling.
-- **[Effection](https://github.com/thefrontside/effection)** — Contributions and explorations around structured concurrency in JavaScript.
+### [Stack54](https://github.com/joshamaju/stack54)
+**A server-first web stack.**
+
+Exploring an HTML-first approach to modern web development, with explicit control over rendering, assets, server integration, and client-side JavaScript.
+
+### [Valaria](https://github.com/joshamaju/valaria)
+**Browser UI infrastructure.**
+
+A collection of framework-independent UI primitives and custom elements for building complex browser interactions.
+
+### [Jamx](https://github.com/joshamaju/jamx)
+**Composable TypeScript tooling.**
+
+Small, typed utilities for HTTP communication and structured logging, designed around explicit behavior and composition.
+
+### [Effection](https://github.com/joshamaju/effection)
+**Structured concurrency and asynchronous lifecycles.**
+
+My contributions and explorations around managing concurrent work, cancellation, and the lifecycle of asynchronous operations in JavaScript.
+
+## What I'm interested in
+
+- **Developer infrastructure:** frameworks, libraries, APIs, and developer experience.
+- **Systems engineering:** concurrency, resource lifecycles, distributed workflows, and observability.
+- **Product engineering:** connecting frontend, backend, and infrastructure into useful products.
+- **Applied AI:** making tool-using AI workflows more predictable, observable, and reliable.
 
 ## Technology
 
@@ -26,6 +41,5 @@ TypeScript · JavaScript · Node.js · React · React Native · Svelte · Vite �
 
 ## Elsewhere
 
-- Portfolio: https://joshuaamaju.com
-- LinkedIn: https://www.linkedin.com/in/joshua-amaju/
-- GitHub: https://github.com/joshamaju
+- [Portfolio](https://joshuaamaju.com)
+- [LinkedIn](https://www.linkedin.com/in/joshua-amaju/)
