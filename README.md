@@ -23,7 +23,7 @@ A collection of framework-independent UI primitives and custom elements for buil
 
 Small, typed utilities for HTTP communication and structured logging, designed around explicit behavior and composition.
 
-### [Effection](https://github.com/joshamaju/effection)
+### [Effection](https://frontside.com/effection)
 **Structured concurrency and asynchronous lifecycles.**
 
 My contributions and explorations around managing concurrent work, cancellation, and the lifecycle of asynchronous operations in JavaScript.
